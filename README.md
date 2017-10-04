@@ -9,10 +9,10 @@ Carlos is a technology, artificial inteligence enthusiast and entrepreneur who l
 
 After worked and gained experience on the tech industry, he became an entrepreneur and had the opportunity to graduate from AcceleratorHK (in Hong Kong) and Start-Up Chile (Santiago).
 
-### Experience
+## Experience
 
-**Cofounder/CEO**
-Company Name: _Synx.co_
+### Cofounder/CEO ###
+Company Name: **_Synx.co_**
 Dates Employed: _Apr 2015 – Present_  
 Location: _San Jose, CA / Guadalajara, México_
 
@@ -20,8 +20,8 @@ Cofounded Synx: a platform that builds artificial intelligence by itself.
 
 Synx simplifies the adoption of AI within companies and organizations, using cutting-edge artificial intelligence technology that allows them to automate processes and extract more value from their data.
 
-**Cofounder/CTO**
-Company Name: _PayAllies Limited_
+### Cofounder/CTO
+Company Name: **_PayAllies Limited_**
 Dates Employed: _Jan 2011 – Apr 2015  (Employment Duration: 4 yrs 4 mos)_
 Location: _Hong Kong_
 
@@ -29,8 +29,8 @@ Location: _Hong Kong_
 
 >PayAllies Limited is a Hong Kong based company founded in 2012, accelerated in AcceleratorHK and Startup Chile.
 
-**Research Assistant Intern**
-Company Name: _ITESO / HP Labs_
+### Research Assistant Intern
+Company Name: **_ITESO / HP Labs_**
 Dates Employed: _Jan 2010 – Dec 2010  /Employment Duration: 12 mos)_
 
 Worked on an intensive Information Management System and Business Intelligence project, focused on help companies on gather and analyze better data from their own infrastructure, I worked on the graphic user interface and experience for the project to visualize cluster of data from a massive query system.
