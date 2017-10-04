@@ -1,8 +1,3 @@
----
-title: Carlos Rivera
-layout: post
----
-
 ## Summary
 
 Carlos is a technology, artificial inteligence enthusiast and entrepreneur who likes to develop new products that impacts in the people lives. He learned to code at the age of 14yrs, and started as a indie game developer who built a 3D Game Engine from scratch while attending highschool. On his first semester at university landed at the aerospatial industry working on high tech projects, and since then he has been involved in several projects across many industries.
